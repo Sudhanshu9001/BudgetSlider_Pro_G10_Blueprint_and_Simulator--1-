@@ -1,0 +1,14 @@
+{
+  "name": "budgetslider-pro-blueprint-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Project 31 10-generation roadmap and offline simulator",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

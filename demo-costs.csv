@@ -1,0 +1,5 @@
+service,monthly_estimated_cost_usd,source
+EC2,31.2,illustrative-demo
+S3,10.0,illustrative-demo
+Lambda,8.8,illustrative-demo
+DynamoDB,22.0,illustrative-demo

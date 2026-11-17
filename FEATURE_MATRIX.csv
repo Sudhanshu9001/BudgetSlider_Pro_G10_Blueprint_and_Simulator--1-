@@ -1,0 +1,61 @@
+generation,feature_id,feature,status_in_this_zip
+1,1,Interactive virtual potentiometer with drag controls.,local demo implementation (not cloud production)
+1,2,Manual monthly budget input and validation.,local demo implementation (not cloud production)
+1,3,Animated OLED display simulator.,local demo implementation (not cloud production)
+1,4,Virtual LED with warning animations.,local demo implementation (not cloud production)
+1,5,Preloaded example AWS usage scenarios.,local demo implementation (not cloud production)
+1,6,"Start, pause, reset, and restore-demo controls.",local demo implementation (not cloud production)
+2,7,ESP32 registration and pairing.,planned; not implemented
+2,8,Secure MQTT messaging with AWS IoT Core.,planned; not implemented
+2,9,Real-time device connectivity monitoring.,partial illustrative/local simulation
+2,10,Potentiometer calibration and sensitivity.,planned; not implemented
+2,11,Automatic reconnection and state recovery.,partial illustrative/local simulation
+2,12,Diagnostics and telemetry monitoring.,planned; not implemented
+3,13,"AWS services catalog: EC2, S3, Lambda, DynamoDB.",local demo implementation (not cloud production)
+3,14,AWS Region selection for price estimates.,planned; not implemented
+3,15,Configurable resource quantities and units.,planned; not implemented
+3,16,AWS Price List Query API integration with caching.,planned; not implemented
+3,17,Itemized estimates by service.,local demo implementation (not cloud production)
+3,18,Pricing source labels and update timestamps.,partial illustrative/local simulation
+4,19,"Real-time budget, cost, and balance KPI cards.",local demo implementation (not cloud production)
+4,20,Cost distribution charts.,local demo implementation (not cloud production)
+4,21,Daily spending and monthly burn-rate charts.,local demo implementation (not cloud production)
+4,22,Animated utilization gauge.,local demo implementation (not cloud production)
+4,23,CSV upload for simulated usage data.,planned; not implemented
+4,24,Historical month-to-month comparison.,partial illustrative/local simulation
+5,25,Configurable warning/danger thresholds.,local demo implementation (not cloud production)
+5,26,Customizable LED blinking patterns.,local demo implementation (not cloud production)
+5,27,Browser/in-app alerts.,local demo implementation (not cloud production)
+5,28,Optional email notifications with Amazon SNS.,planned; not implemented
+5,29,Alert history and acknowledgment.,local demo implementation (not cloud production)
+5,30,Deduplication and cooldown policies.,planned; not implemented
+6,31,End-of-month estimated cost forecast.,local demo implementation (not cloud production)
+6,32,7/30-day projections.,local demo implementation (not cloud production)
+6,33,What-if resource consumption simulator.,local demo implementation (not cloud production)
+6,34,Budget overrun risk indicator with uncertainty.,partial illustrative/local simulation
+6,35,Rules-based cost optimization tips.,local demo implementation (not cloud production)
+6,36,Seasonal utilization comparisons.,planned; not implemented
+7,37,Cost anomaly detection.,partial illustrative/local simulation
+7,38,Per-service budget allocations.,planned; not implemented
+7,39,Daily spending limit monitoring.,planned; not implemented
+7,40,Cost spike explanations.,local demo implementation (not cloud production)
+7,41,Audit trail of changes/events.,local demo implementation (not cloud production)
+7,42,CSV and PDF reporting.,local demo implementation (not cloud production)
+8,43,Admin/operator/viewer/auditor role-based permissions.,local demo implementation (not cloud production)
+8,44,Shared workspaces.,planned; not implemented
+8,45,Budget discussion comments.,planned; not implemented
+8,46,Budget change approval workflow.,planned; not implemented
+8,47,Shared notifications and activity center.,planned; not implemented
+8,48,Multi-device workspace dashboard.,partial illustrative/local simulation
+9,49,Offline event queue and synchronization.,planned; not implemented
+9,50,End-to-end simulated-IoT automated tests.,partial illustrative/local simulation
+9,51,Retry and dead-letter queue handling.,planned; not implemented
+9,52,Infrastructure-as-code setup.,planned; not implemented
+9,53,Performance/diagnostic telemetry.,partial illustrative/local simulation
+9,54,Backup/restore procedures.,planned; not implemented
+10,55,Premium adaptive visual design and themes.,local demo implementation (not cloud production)
+10,56,"Accessible interaction, keyboard and reduced-motion support.",partial illustrative/local simulation
+10,57,Mobile-installable Progressive Web App.,planned; not implemented
+10,58,AI-assisted cost explanations with rules-based fallback.,planned; not implemented
+10,59,Multi-currency display with exchange-rate source.,local demo implementation (not cloud production)
+10,60,Guided presentation/demo mode with incident simulations.,local demo implementation (not cloud production)
